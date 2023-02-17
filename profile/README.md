@@ -21,8 +21,8 @@ We are [Tolgee](https://tolgee.io) and we develop great tools for software local
 
 For more detailed documentation about Tolgee, visit [tolgee.io](https://tolgee.io).
 
-
-
+## Public roadmap
+Check out our [public roadmap](https://github.com/orgs/tolgee/projects/2)!
 
 ## Tolgee Rewards
  Contributed to Tolgee? Here is a big thank you from us.
